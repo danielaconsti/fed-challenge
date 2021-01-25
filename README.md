@@ -16,6 +16,15 @@ This application should do the following:
 
 We've created an empty React project, which you can fork, as a starting point for the exercise. Besides React, you should not use any other UI frameworks to create the final application. The design of the application is ultimately up to you but should display nicely in multiple viewports.
 
+We review the exercise on the following topics:
+
+- Code Quality
+- Organization
+- UI / UX
+- Complexity
+- Attention to Detail
+- Nice to Haves (accessibility and documentation)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
