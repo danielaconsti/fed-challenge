@@ -4,7 +4,7 @@ Using the API provided by [https://randomuser.me/](https://randomuser.me/), crea
 
 This application should do the following:
 
-- Display a paginated list of user (up to 10 users/page)
+- Display a paginated list of users (up to 10 users/page)
 - For each user, display a card with the following information
   - First Name
   - Last Name
